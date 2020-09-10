@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1074027700471",
+    "firebase_url": "https://biodata-602f2.firebaseio.com",
+    "project_id": "biodata-602f2",
+    "storage_bucket": "biodata-602f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074027700471:android:3cae70517abd35caf9f3f2",
+        "android_client_info": {
+          "package_name": "com.fadh.biodata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074027700471-ncbp2b8gssskscjnomo07p4ga7r907un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYwD2gPlquH4TGE0Rzbs__r3uziX1sVps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074027700471-ncbp2b8gssskscjnomo07p4ga7r907un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
