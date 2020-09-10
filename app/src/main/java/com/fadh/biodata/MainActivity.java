@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
               Intent nextScreen = new Intent(MainActivity.this,MainMenu.class);
               nextScreen.putExtra("username" , username.getText().toString());
               nextScreen.putExtra("password" , password.getText().toString());
+              startActivity(nextScreen);
           }else{
             Toast.makeText(MainActivity.this, "Auth Failde" , Toast.LENGTH_SHORT).show();
           }

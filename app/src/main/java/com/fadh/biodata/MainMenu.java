@@ -18,7 +18,7 @@ public class MainMenu extends AppCompatActivity {
         btnDetail.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent inten = new Intent(MainMenu.this, Register.class );
+                Intent inten = new Intent(MainMenu.this, DetailMovie.class );
                 startActivity(inten);
             }
         });
